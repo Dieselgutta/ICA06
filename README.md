@@ -1,2 +1,2 @@
 # ICA06
-Dieselgruppa is-105 ica06
+Dieselgutta is-105 ica06
