@@ -11,6 +11,7 @@ Hvis vi skulle laget en språkgjennkjennelsesalgoritme hadde hovedfokuset nok li
 
 
 # Eksperiment 2
+I ekspriment 2 brukte vi eksempelet fra https://github.com/parente/espeakbox. Vi måtte laste ned docker på ubuntu, deretter kjørte vi programmet med denne kommandoen: docker run --name espeakbox -d -p 8080:8080 parente/espeakbox
 
 http://158.39.77.30:8080/speech?text=hei&voice=no&pitch=80&speed=170
 
