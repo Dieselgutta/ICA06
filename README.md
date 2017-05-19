@@ -20,3 +20,5 @@ http://158.39.77.30:8080/speech?text=hei&voice=no&pitch=80&speed=170
 
 
 # Eksperiment 3
+Vi prøvde å bruke google sin speech API, slik som det er i dette eksempelet: https://www.google.com/intl/en/chrome/demos/speech.html, men fikk det ikke til. Vi slet med å få API nøkkelen til å fungere. Vi prøvde også med wit-engine, men slet med å forstå hvordan denne fungerte. 
+
